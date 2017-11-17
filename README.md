@@ -49,7 +49,7 @@ The results of RSL60 with the same protocol of the paper are shown in the follow
 Please cite the paper if it helps your research:
 
     @inproceedings{zhang2017mcms,
-        author = {Xikang Zhang, Bengisu Osbay, Mario Sznaier, Octavia Camps},
+        author = {Xikang Zhang, Bengisu Ozbay, Mario Sznaier, Octavia Camps},
         booktitle = {ICCV},
         title = {Dynamics Enhanced Multi-Camera Motion Segmentation from Unsynchronized Videos},
         year = {2017}
